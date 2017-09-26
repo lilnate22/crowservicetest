@@ -1,0 +1,5 @@
+port: 3000
+zone: Z2KCJVHCQK8TTG
+dns: 'services.natefonseka.tech'
+ip: 'ad027cac69a3a11e7ac460e35c9dd52d-1204407858.us-east-1.elb.amazonaws.com'
+recordType: 'CNAME'
